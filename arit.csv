@@ -1,11 +1,11 @@
-#;Cédula;Nombre;Email
-1;1032248407;CALDERA NAVARRO DIEGO;diego.caldera@udea.edu.co
-2;1007410536;CALY HERRERA ESTEFANIA;estefania.caly@udea.edu.co
-3;1066600269;CASTRO RAMIREZ JOSE DANIEL;jose.castro1@udea.edu.co
-4;1038108070;DORADO PADILLA LEONEL ESTEBAN;leonel.dorado@udea.edu.co
-5;1038115862;LONDONO CASTRO FRED IVAN;fred.londonoc@udea.edu.co
-6;3667402;MARIN MARTINEZ FRANCISCO JAVIER;fjavier.marin@udea.edu.co
-7;1129804572;SAN JUAN SERRANO MANUEL;manuel.serrano1@udea.edu.co
-8;1091673882;SANCHEZ BELTRAN ROSMARY;rosmary.sanchezb@udea.edu.co
-9;1007554266;URIBE ARRIETA YEIFRY SEBASTIAN;yeifry.uribe@udea.edu.co
-10;1007578670;VELASQUEZ LOPEZ MERLIS;merlis.velasquez@udea.edu.co
+cedula;nombre;email
+1032248407;CALDERA NAVARRO DIEGO;diego.caldera@udea.edu.co
+1007410536;CALY HERRERA ESTEFANIA;estefania.caly@udea.edu.co
+1066600269;CASTRO RAMIREZ JOSE DANIEL;jose.castro1@udea.edu.co
+1038108070;DORADO PADILLA LEONEL ESTEBAN;leonel.dorado@udea.edu.co
+1038115862;LONDONO CASTRO FRED IVAN;fred.londonoc@udea.edu.co
+3667402;MARIN MARTINEZ FRANCISCO JAVIER;fjavier.marin@udea.edu.co
+1129804572;SAN JUAN SERRANO MANUEL;manuel.serrano1@udea.edu.co
+1091673882;SANCHEZ BELTRAN ROSMARY;rosmary.sanchezb@udea.edu.co
+1007554266;URIBE ARRIETA YEIFRY SEBASTIAN;yeifry.uribe@udea.edu.co
+1007578670;VELASQUEZ LOPEZ MERLIS;merlis.velasquez@udea.edu.co
