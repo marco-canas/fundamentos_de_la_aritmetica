@@ -1,0 +1,29 @@
+digraph {
+	A [label="Tautologías"]
+	B [label="Definición de Tautología"]
+	C [label="Ejemplos de Tautologías"]
+	D [label="Interpretaciones Verbales"]
+	E [label="Métodos de Verificación"]
+	F [label="Lógica Proposicional"]
+	G [label="Historia de la Lógica"]
+	H [label="Formalización con LaTeX"]
+	I [label="Uso de Python para Verificación"]
+	J [label="Lenguaje de la Lógica Matemática"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	A -> H
+	A -> I
+	A -> J
+	B -> C [label="Incluye Ejemplos"]
+	C -> D [label=Interpretaciones]
+	D -> E [label="Métodos de Verificación"]
+	E -> F [label="Relación con Lógica Proposicional"]
+	F -> G [label="Desarrollo Histórico"]
+	G -> H [label="Formalización Matemática"]
+	H -> I [label="Aplicación en Python"]
+	I -> J [label="Lenguaje Matemático"]
+}
