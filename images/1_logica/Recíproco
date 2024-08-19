@@ -1,0 +1,8 @@
+digraph {
+	A [label="Recíproco"]
+	B [label=Contrario]
+	C [label="Contrarrecíproco"]
+	D [label=""]
+	A -> B
+	B -> C
+}
