@@ -1,0 +1,14 @@
+digraph {
+	A [label="Leyes de la lógica"]
+	B [label=Idempotencia]
+	C [label=Identidad]
+	D [label=""]
+	E [label=""]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	A -> C
+}
