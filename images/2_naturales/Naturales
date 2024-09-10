@@ -1,21 +1,31 @@
 digraph {
 	A [label=Naturales]
-	B [label="Inducción matemática"]
-	C [label=""]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
+	B [label="Inducción 
+ matemática"]
+	C [label="Paso Base"]
+	D [label="Paso 
+ Inductivo"]
+	E [label="Demostraciones 
+ por Inducción"]
+	F [label="Suma de 
+ los primeros 
+ n números naturales"]
+	G [label="Suma de 
+ los primeros 
+ n números impares"]
+	H [label="Suma de 
+ los primeros 
+ n números cuadrados"]
+	I [label=Divisibilidad]
+	J [label="Patrones y 
+ generalización"]
 	A -> B
-	A -> C
-	C -> D
-	D -> J
+	B -> C
+	B -> D
+	B -> E
 	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
+	E -> G
+	E -> H
+	E -> I
+	E -> J
 }
